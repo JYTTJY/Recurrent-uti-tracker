@@ -1,19 +1,1 @@
-# Recurrent UTI Clinical Tracking System
 
-An R Shiny application for tracking recurrent urinary tract infection (UTI) episodes, managing antibiotic resistance (AST) records, and standardising clinical history logs.
-
-## 🚀 Live Demo
-**[Launch Interactive Demo](https://greencare-physio.shinyapps.io/UTI-Tracker/)**
-
-## ✨ Core Features
-- **Episode Tracking**: Multi-step workflow for logging symptoms, VAS pain scores, and prescribed treatments.
-- **AST Vault**: Stores lab culture results and tracks antibiotic resistance (R) profiles per patient.
-- **History & Export**: Filterable clinical history tables with one-click print/PDF export.
-
-## 🛠️ Tech Stack
-- **Language**: R
-- **Framework**: R Shiny, shinyjs
-- **Database**: SQLite (RSQLite, DBI)
-
-## 🔒 Privacy & Data Notice
-All public repositories and live demos use **synthetic data**. No personal identifiable information (PII) or real patient records are stored.
