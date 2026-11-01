@@ -3,7 +3,7 @@
 An R Shiny application for tracking recurrent urinary tract infection (UTI) episodes, managing antibiotic resistance (AST) records, and standardising clinical history logs.
 
 ## 🚀 Live Demo
-**[Launch Interactive Demo](https://greencare-physio.shinyapps.io/SOAP/)**
+**[Launch Interactive Demo](https://greencare-physio.shinyapps.io/UTI-Tracker/)**
 
 ## ✨ Core Features
 - **Episode Tracking**: Multi-step workflow for logging symptoms, VAS pain scores, and prescribed treatments.
