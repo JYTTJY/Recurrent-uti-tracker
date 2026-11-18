@@ -4,8 +4,13 @@ An R Shiny app for documenting and reviewing **recurrent urinary tract infection
 
 > **Live demo:** [https://greencare-physio.shinyapps.io/UTI-Tracker/](https://greencare-physio.shinyapps.io/UTI-Tracker/)
 
-![Active episodes view](docs/screenshots/active-episodes.png)
-![History view with filters](docs/screenshots/history.png)
+![Active episodes view]
+<img width="935" height="447" alt="image" src="https://github.com/user-attachments/assets/4d953382-088a-4bc7-bf72-498ea3dddde4" />
+
+
+![History view with filters]
+<img width="956" height="403" alt="image" src="https://github.com/user-attachments/assets/d7769f92-dc97-4a40-ad4c-8647971342c9" />
+
 
 ---
 
